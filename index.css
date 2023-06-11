@@ -54,6 +54,7 @@ nav{
     border-radius: 50%;
     transform: rotate(0deg);
     transition: 1s;
+    background: transparent;
 }
 .feature img{
     width: 70px;
